@@ -1,13 +1,9 @@
-# Produkt Manager
+# Gästebuch
 
 ## Intro
 
 - Umgesetzt mit React
 - React Bootstrap
-
-![img_1.png](img_1.png)
-![img.png](img.png)
-
 
 
 ## Anleitung
