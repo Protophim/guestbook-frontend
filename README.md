@@ -13,3 +13,5 @@
 - `npm install` ausführen
 - `.env` File erstellen (siehe .env.sample)
 - `npm run dev` ausführen und URL im Browser öffnen
+
+Transferarbeit TEKO Luzern
